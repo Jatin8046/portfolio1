@@ -1,0 +1,78 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #f0f0f0;
+            padding: 20px;
+            text-align: center;
+        }
+        .header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin: 20px;
+        }
+        .about {
+            padding: 20px;
+        }
+        .skills {
+            padding: 20px;
+        }
+        .skills ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .skills li {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+        .skills li:last-child {
+            border-bottom: none;
+        }
+        .experience {
+            padding: 20px;
+        }
+        .contact {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src=""C:\Users\dutts\OneDrive\Desktop\jatin234.jpg".jpg" alt="JATIN">
+        <h1>JATIN</h1>
+        <p>Web Developer and Student</p>
+    </div>
+    <div class="about">
+        <h2>About Me</h2>
+        <p>I am a second-year B.Tech student majoring in Computer Science, with a passion for web development and a keen interest in learning new technologies.</p>
+    </div>
+    <div class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Web Designing: the process of creating websites</li>
+            <li>Coding: a part of solving problems</li>
+            <li>HTML/CSS: building blocks of the web</li>
+            <li>JavaScript: adding interactivity to websites</li>
+        </ul>
+    </div>
+    <div class="experience">
+        <h2>Experience</h2>
+        <p>I am currently a student, but I am actively seeking an internship opportunity to gain practical experience in web development.</p>
+    </div>
+    <div class="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:jatindutt905@gmail.com">jatindutt905@gmail.com</a></p>
+        <p>Phone: <a href="tel:905362">9053620235</a></p>
+    </div>
+</body>
+</html>
